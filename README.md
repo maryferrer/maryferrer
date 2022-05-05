@@ -1,4 +1,4 @@
-![Colorful Organic Shape Graphic Designer LinkedIn Banner](https://user-images.githubusercontent.com/85918290/159995469-18cea922-f55d-4756-be14-0334111582f2.png)
+![Colorful pink, yellow and green GitHub Banner](https://user-images.githubusercontent.com/85918290/166978897-3c13c9dc-f7c2-40a2-81c0-c23497f810b7.png)
 
 - 👋 Hi, I’m @maryferrer
 - 👀 I’m a self-taught Front-end Web Developer passionate about creating beautiful and responsive applications.
